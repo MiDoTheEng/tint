@@ -1,3 +1,3 @@
 # Tint — light photo filter app for Android
 
-65 filters in 8 categories (Film, Vintage, Mood, Cinema, Pastel, B&W, Retro, Glow), intensity slider,
+i made this photo editing app by claude to have my pics edited in the way i want... hope any one use it enjoy it as i did....
